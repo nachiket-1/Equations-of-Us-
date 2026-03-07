@@ -1,6 +1,6 @@
 # 💗 Equations of Us
 
-> *"I don't need the whole universe — just the part of it that is you."*
+> *"I don't need the whole universe - just the part of it that is you."*
 
 A Python notebook where **mathematics meets love** — built with `numpy`, `matplotlib`, and a lot of feelings.  
 Written by **Nachiket**, for **Kalyani**. Since **24th June 2025**.
@@ -45,9 +45,7 @@ He builds a Jupyter notebook.
 ## ▶️ How to Run
 
 ```bash
-# Clone or download the notebook
 # Open in Jupyter or VS Code
-
 jupyter notebook equations_of_us.ipynb
 ```
 
@@ -75,14 +73,14 @@ from IPython.display import HTML
 
 ## 💬 The Quote
 
-> *"I don't need the whole universe — just the part of it that is you."*
+> *"I don't need the whole universe - just the part of it that is you."*
 
 ---
 
 ## 👤 Author
 
 **Nachiket**  
-BSc Data Science · IIT Madras  
+ 
 Built this for Kalyani · 24th June 2025
 
 ---
@@ -90,6 +88,5 @@ Built this for Kalyani · 24th June 2025
 <div align="center">
 
 Made with Python, numpy, matplotlib & 💗
-
 
 </div>
