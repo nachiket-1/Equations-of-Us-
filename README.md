@@ -1,9 +1,9 @@
-# 💗 Equations of Us
+# 💗 Equation of Us
 
 > *"I don't need the whole universe - just the part of it that is you."*
 
 A Python notebook where **mathematics meets love** — built with `numpy`, `matplotlib`, and a lot of feelings.  
-Written by **Nachiket**, for **Kalyani**. Since **24th June 2025**.
+Written by **Nachiket**, for **Kalyani**. 
 
 ---
 
